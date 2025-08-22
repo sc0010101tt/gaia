@@ -27,7 +27,7 @@
   "physicsStartAwake":true,
   "properties":[],
   "resourceType":"GMObject",
-  "resourceVersion":"2.0",
+  "resourceVersion":"1.0",
   "solid":false,
   "spriteId":null,
   "visible":true

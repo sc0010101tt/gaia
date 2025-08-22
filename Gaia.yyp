@@ -35,6 +35,10 @@
   },
   "name":"Gaia",
   "resources":[
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_seed","path":"objects/obj_seed/obj_seed.yy",},},
+    {"id":{"name":"obj_field","path":"objects/obj_field/obj_field.yy",},},
+    {"id":{"name":"obj_plant","path":"objects/obj_plant/obj_plant.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",

@@ -1,0 +1,32 @@
+{
+  "$GMObject":"v1",
+  "%Name":"obj_field",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"enumb":0,"eventtype":0,"isDnD":false},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"enumb":0,"eventtype":8,"isDnD":false}
+  ],
+  "managed":true,
+  "name":"obj_field",
+  "overriddenProperties":[],
+  "parent":{"name":"Objects","path":"folders/Objects.yy"},
+  "parentObjectId":null,
+  "persistent":false,
+  "physicsAngularDamping":0.1,
+  "physicsDensity":0.5,
+  "physicsFriction":0.2,
+  "physicsGroup":0,
+  "physicsKinematic":false,
+  "physicsLinearDamping":0.1,
+  "physicsObject":false,
+  "physicsRestitution":0.1,
+  "physicsSensor":false,
+  "physicsShape":1,
+  "physicsShapePoints":[],
+  "physicsStartAwake":true,
+  "properties":[],
+  "resourceType":"GMObject",
+  "resourceVersion":"2.0",
+  "solid":false,
+  "spriteId":null,
+  "visible":true
+}
